@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+course = input("What is your student number?")
+area = input("What is your year of study?")
+print("name:" + name )
+print("Student Number: " + course)
+print("Year: " + area)
