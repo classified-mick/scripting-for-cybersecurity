@@ -1,2 +1,7 @@
-# scripting-for-cybersecurity
-Repo for scripting in University
+# Scripting for Cybersecurity
+
+This repository contains my practical work for the Scripting for Cybersecurity module.
+
+## Labs
+
+- Lab 01 - Development Environment or smth like that
