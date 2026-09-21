@@ -1,0 +1,3 @@
+codespaces-8fa025
+/bin/bash
+/home/codespace
